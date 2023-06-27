@@ -21,3 +21,5 @@ bool isPossible(int *arr, int n)
     }
     return true;
 }
+
+
